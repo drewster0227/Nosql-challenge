@@ -1,0 +1,1 @@
+I used chatGPT and stack exchange in order to convert the data types. Besides that this assignment was relatively easy to complete
